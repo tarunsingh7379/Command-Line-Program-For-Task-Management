@@ -1,0 +1,2 @@
+5 Buy Milk
+10 Buy Sugar
